@@ -44,7 +44,7 @@ To make the site server in passive mode become active, you manually *promote* it
 
 - The site is a standalone primary site. 
 
-- Both site servers must use the same site database, which must be remote each site server.  
+- Both site servers must use the same site database, which must be remote to each site server.  
 
      - Both site servers need **sysadmin** permissions on the instance of SQL Server that hosts the site database.
 
